@@ -19,4 +19,3 @@ export default ({ env }) => ({
   },
 });
 
-want to use hostinger db 
